@@ -1,0 +1,2 @@
+this is a project i built in my machine learning course in uni, this project was inspired by my dads career. this project studied cases and how theyre usually treated and predicted how this case the user entered should be treated. it basically predicted your cases rulling based on cases in our ds. also i built a powerbi dashboard that allowed the used to navigate our dataset and see where most cases were and what type of case is more frequent and so on. the only problem we had here is the data was synthetic which caused us alot of troubles. 
+
